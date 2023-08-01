@@ -26,6 +26,7 @@ function App() {
         <Route exact path="/register" component={Register} />
         <Route exact path="/dashboard" component={Dashboard} />
       </Switch>
+      
     </div>
   );
 }
